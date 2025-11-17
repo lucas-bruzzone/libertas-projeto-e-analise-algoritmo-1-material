@@ -1,3 +1,6 @@
+# Lista de atividades - Complexidade de algoritmos
+Responder até dia 01/12 : https://forms.gle/EcnUju29WQbwnMTu5
+
 # Trabalhos - Listagem de RAs e Temas
 
 ## 1. Mochila 0/1 vs Fracionária
