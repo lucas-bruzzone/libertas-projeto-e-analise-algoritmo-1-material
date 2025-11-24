@@ -89,7 +89,7 @@ O vídeo substitui a apresentação presencial.
 # Lista de grupos
 
 ## 1. Mochila 0/1 vs Fracionária
-- RA: 1259
+- RA: 7259
 - RA: 7216
 - RA: 7708
 - RA: 7628
