@@ -108,11 +108,11 @@ O vídeo substitui a apresentação presencial.
 ## 4. Corte de hastes
 - RA: 7202
 - RA: 7260
-- RA: 7286
+- RA: 7236
 - RA: 7759
 
 ## 5. Partição de conjunto
-- RA: 7211
+- RA: 7311
 - RA: 7288
 - RA: 7206
 
