@@ -1,7 +1,7 @@
-# Lista de atividades - Complexidade de algoritmos
+# Lista de atividades - Complexidade de algoritmos ( 10 pontos)
 Responder até dia 01/12 : https://forms.gle/EcnUju29WQbwnMTu5
 
-# Trabalhos - Listagem de RAs e Temas
+# Trabalhos - Listagem de RAs e Temas ( 60 pontos)
 
 ## 1. Mochila 0/1 vs Fracionária
 - RA: 1259
