@@ -118,7 +118,7 @@ O vídeo substitui a apresentação presencial.
 - RA: 7206
 
 ## 6. Escalonamento com Deadline
-- RA: 2590
+- RA: 3540
 - RA: 7269
 - RA: 7217
 - RA: 7194
