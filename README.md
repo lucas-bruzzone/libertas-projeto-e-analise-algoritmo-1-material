@@ -90,9 +90,8 @@ O vídeo substitui a apresentação presencial.
 
 ## 1. Mochila 0/1 vs Fracionária
 - RA: 7259
-- RA: 7216
-- RA: 7708
-- RA: 7628
+- RA: 7316
+- RA: 7238
 
 ## 2. LCS (Longest Common Subsequence)
 - RA: 7192
