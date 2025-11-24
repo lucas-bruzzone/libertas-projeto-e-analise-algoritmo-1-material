@@ -101,8 +101,8 @@ O vídeo substitui a apresentação presencial.
 - RA: 7224
 
 ## 3. Problema da Editora de Strings
-- RA: 7384
-- RA: 6528
+- RA: 7354
+- RA: 6998
 - RA: 7258
 - RA: 7247
 
@@ -127,5 +127,5 @@ O vídeo substitui a apresentação presencial.
 ## 7. Compra de ações
 - RA: 7264
 - RA: 7262
-- RA: 7257
+- RA: 7234
 - RA: 7722
